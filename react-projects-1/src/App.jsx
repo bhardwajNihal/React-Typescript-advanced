@@ -19,6 +19,14 @@ function App() {
     // function changeCount(){
     //   setCount(count => count + 1)
     // }
+
+
+    
+
+
+
+
+
   return (
     <>
     {/* <h2>{count}</h2>     */}
@@ -40,7 +48,9 @@ function App() {
 
 
 
+<div className="h-screen w-full bg-black text-white">
 <EcommerceMain/>
+</div>
 
 
 
